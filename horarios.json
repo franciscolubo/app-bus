@@ -1,0 +1,1742 @@
+{
+  "Parana": [
+    {
+      "id": 1,
+      "Salida": "Terminal de Paraná",
+      "Horario": "00:00",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 2,
+      "Salida": "Terminal de Paraná",
+      "Horario": "01:50",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 3,
+      "Salida": "Terminal de Paraná",
+      "Horario": "04:00",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 4,
+      "Salida": "Terminal de Paraná",
+      "Horario": "04:30",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 5,
+      "Salida": "Terminal de Paraná",
+      "Horario": "05:10",
+      "Empresa": "Fluviales",
+      "Tipo": "R"
+    },
+    {
+      "id": 6,
+      "Salida": "Terminal de Paraná",
+      "Horario": "05:25",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 7,
+      "Salida": "Terminal de Paraná",
+      "Horario": "05:30",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 8,
+      "Salida": "Terminal de Paraná",
+      "Horario": "05:40",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 9,
+      "Salida": "Terminal de Paraná",
+      "Horario": "05:55",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 10,
+      "Salida": "Terminal de Paraná",
+      "Horario": "06:00",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 11,
+      "Salida": "Terminal de Paraná",
+      "Horario": "06:10",
+      "Empresa": "Fluviales",
+      "Tipo": "R"
+    },
+    {
+      "id": 12,
+      "Salida": "Terminal de Paraná",
+      "Horario": "06:30",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 13,
+      "Salida": "Terminal de Paraná",
+      "Horario": "06:30",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 14,
+      "Salida": "Terminal de Paraná",
+      "Horario": "06:35",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 15,
+      "Salida": "Terminal de Paraná",
+      "Horario": "06:40",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 16,
+      "Salida": "Terminal de Paraná",
+      "Horario": "07:00",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 17,
+      "Salida": "Terminal de Paraná",
+      "Horario": "07:00",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 18,
+      "Salida": "Terminal de Paraná",
+      "Horario": "07:10",
+      "Empresa": "Fluviales",
+      "Tipo": "R"
+    },
+    {
+      "id": 19,
+      "Salida": "Terminal de Paraná",
+      "Horario": "07:10",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 20,
+      "Salida": "Terminal de Paraná",
+      "Horario": "07:20",
+      "Empresa": "Fluviales",
+      "Tipo": "P"
+    },
+    {
+      "id": 21,
+      "Salida": "Terminal de Paraná",
+      "Horario": "07:30",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 22,
+      "Salida": "Terminal de Paraná",
+      "Horario": "07:35",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 23,
+      "Salida": "Terminal de Paraná",
+      "Horario": "07:50",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 24,
+      "Salida": "Terminal de Paraná",
+      "Horario": "07:50",
+      "Empresa": "Fluviales",
+      "Tipo": "R"
+    },
+    {
+      "id": 25,
+      "Salida": "Terminal de Paraná",
+      "Horario": "08:00",
+      "Empresa": "Fluviales",
+      "Tipo": "P"
+    },
+    {
+      "id": 26,
+      "Salida": "Terminal de Paraná",
+      "Horario": "08:10",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 27,
+      "Salida": "Terminal de Paraná",
+      "Horario": "08:15",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 28,
+      "Salida": "Terminal de Paraná",
+      "Horario": "08:25",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 29,
+      "Salida": "Terminal de Paraná",
+      "Horario": "08:30",
+      "Empresa": "Fluviales",
+      "Tipo": "R"
+    },
+    {
+      "id": 30,
+      "Salida": "Terminal de Paraná",
+      "Horario": "08:45",
+      "Empresa": "Etacer",
+      "Tipo": "D/R"
+    },
+    {
+      "id": 31,
+      "Salida": "Terminal de Paraná",
+      "Horario": "08:50",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 32,
+      "Salida": "Terminal de Paraná",
+      "Horario": "09:00",
+      "Empresa": "Fluviales",
+      "Tipo": "R"
+    },
+    {
+      "id": 33,
+      "Salida": "Terminal de Paraná",
+      "Horario": "09:05",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 34,
+      "Salida": "Terminal de Paraná",
+      "Horario": "09:15",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 35,
+      "Salida": "Terminal de Paraná",
+      "Horario": "09:20",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 36,
+      "Salida": "Terminal de Paraná",
+      "Horario": "09:25",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 37,
+      "Salida": "Terminal de Paraná",
+      "Horario": "09:45",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 38,
+      "Salida": "Terminal de Paraná",
+      "Horario": "09:50",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 39,
+      "Salida": "Terminal de Paraná",
+      "Horario": "09:55",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 40,
+      "Salida": "Terminal de Paraná",
+      "Horario": "10:00",
+      "Empresa": "Etacer",
+      "Tipo": "D/R"
+    },
+    {
+      "id": 41,
+      "Salida": "Terminal de Paraná",
+      "Horario": "10:20",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 42,
+      "Salida": "Terminal de Paraná",
+      "Horario": "10:25",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 43,
+      "Salida": "Terminal de Paraná",
+      "Horario": "10:30",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 44,
+      "Salida": "Terminal de Paraná",
+      "Horario": "10:35",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 45,
+      "Salida": "Terminal de Paraná",
+      "Horario": "10:55",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 46,
+      "Salida": "Terminal de Paraná",
+      "Horario": "11:00",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 47,
+      "Salida": "Terminal de Paraná",
+      "Horario": "11:05",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 48,
+      "Salida": "Terminal de Paraná",
+      "Horario": "11:15",
+      "Empresa": "Fluviales",
+      "Tipo": "R"
+    },
+    {
+      "id": 49,
+      "Salida": "Terminal de Paraná",
+      "Horario": "11:15",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 50,
+      "Salida": "Terminal de Paraná",
+      "Horario": "11:20",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 51,
+      "Salida": "Terminal de Paraná",
+      "Horario": "11:30",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 52,
+      "Salida": "Terminal de Paraná",
+      "Horario": "11:45",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 53,
+      "Salida": "Terminal de Paraná",
+      "Horario": "11:50",
+      "Empresa": "Fluviales",
+      "Tipo": "R"
+    },
+    {
+      "id": 54,
+      "Salida": "Terminal de Paraná",
+      "Horario": "12:00",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 55,
+      "Salida": "Terminal de Paraná",
+      "Horario": "12:15",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 56,
+      "Salida": "Terminal de Paraná",
+      "Horario": "12:20",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 57,
+      "Salida": "Terminal de Paraná",
+      "Horario": "12:30",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 58,
+      "Salida": "Terminal de Paraná",
+      "Horario": "12:30",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 59,
+      "Salida": "Terminal de Paraná",
+      "Horario": "12:40",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 60,
+      "Salida": "Terminal de Paraná",
+      "Horario": "13:00",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 61,
+      "Salida": "Terminal de Paraná",
+      "Horario": "13:00",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 62,
+      "Salida": "Terminal de Paraná",
+      "Horario": "13:15",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 63,
+      "Salida": "Terminal de Paraná",
+      "Horario": "13:20",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 64,
+      "Salida": "Terminal de Paraná",
+      "Horario": "13:20",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 65,
+      "Salida": "Terminal de Paraná",
+      "Horario": "13:35",
+      "Empresa": "Etacer",
+      "Tipo": "D/R"
+    },
+    {
+      "id": 66,
+      "Salida": "Terminal de Paraná",
+      "Horario": "13:40",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 67,
+      "Salida": "Terminal de Paraná",
+      "Horario": "14:00",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 68,
+      "Salida": "Terminal de Paraná",
+      "Horario": "14:10",
+      "Empresa": "Fluviales",
+      "Tipo": "P"
+    },
+    {
+      "id": 69,
+      "Salida": "Terminal de Paraná",
+      "Horario": "14:30",
+      "Empresa": "Fluviales",
+      "Tipo": "R"
+    },
+    {
+      "id": 70,
+      "Salida": "Terminal de Paraná",
+      "Horario": "14:40",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 71,
+      "Salida": "Terminal de Paraná",
+      "Horario": "14:45",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 72,
+      "Salida": "Terminal de Paraná",
+      "Horario": "14:50",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 73,
+      "Salida": "Terminal de Paraná",
+      "Horario": "15:10",
+      "Empresa": "Fluviales",
+      "Tipo": "P"
+    },
+    {
+      "id": 74,
+      "Salida": "Terminal de Paraná",
+      "Horario": "15:15",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 75,
+      "Salida": "Terminal de Paraná",
+      "Horario": "15:15",
+      "Empresa": "Fluviales",
+      "Tipo": "FD"
+    },
+    {
+      "id": 76,
+      "Salida": "Terminal de Paraná",
+      "Horario": "15:20",
+      "Empresa": "Fluviales",
+      "Tipo": "R"
+    },
+    {
+      "id": 77,
+      "Salida": "Terminal de Paraná",
+      "Horario": "15:20",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 78,
+      "Salida": "Terminal de Paraná",
+      "Horario": "15:30",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 79,
+      "Salida": "Terminal de Paraná",
+      "Horario": "15:45",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 80,
+      "Salida": "Terminal de Paraná",
+      "Horario": "15:50",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 81,
+      "Salida": "Terminal de Paraná",
+      "Horario": "16:00",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 82,
+      "Salida": "Terminal de Paraná",
+      "Horario": "16:15",
+      "Empresa": "Fluviales",
+      "Tipo": "R"
+    },
+    {
+      "id": 83,
+      "Salida": "Terminal de Paraná",
+      "Horario": "16:30",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 84,
+      "Salida": "Terminal de Paraná",
+      "Horario": "16:35",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 85,
+      "Salida": "Terminal de Paraná",
+      "Horario": "16:50",
+      "Empresa": "Fluviales",
+      "Tipo": "P"
+    },
+    {
+      "id": 86,
+      "Salida": "Terminal de Paraná",
+      "Horario": "16:50",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 87,
+      "Salida": "Terminal de Paraná",
+      "Horario": "17:00",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 88,
+      "Salida": "Terminal de Paraná",
+      "Horario": "17:00",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 89,
+      "Salida": "Terminal de Paraná",
+      "Horario": "17:05",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 90,
+      "Salida": "Terminal de Paraná",
+      "Horario": "17:15",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 91,
+      "Salida": "Terminal de Paraná",
+      "Horario": "17:15",
+      "Empresa": "Fluviales",
+      "Tipo": "FD"
+    },
+    {
+      "id": 92,
+      "Salida": "Terminal de Paraná",
+      "Horario": "17:25",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 93,
+      "Salida": "Terminal de Paraná",
+      "Horario": "17:30",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 94,
+      "Salida": "Terminal de Paraná",
+      "Horario": "17:55",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 95,
+      "Salida": "Terminal de Paraná",
+      "Horario": "18:00",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 96,
+      "Salida": "Terminal de Paraná",
+      "Horario": "18:15",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 97,
+      "Salida": "Terminal de Paraná",
+      "Horario": "18:20",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 98,
+      "Salida": "Terminal de Paraná",
+      "Horario": "18:30",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 99,
+      "Salida": "Terminal de Paraná",
+      "Horario": "18:40",
+      "Empresa": "Fluviales",
+      "Tipo": "P"
+    },
+    {
+      "id": 100,
+      "Salida": "Terminal de Paraná",
+      "Horario": "18:40",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 101,
+      "Salida": "Terminal de Paraná",
+      "Horario": "18:50",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 102,
+      "Salida": "Terminal de Paraná",
+      "Horario": "19:00",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 103,
+      "Salida": "Terminal de Paraná",
+      "Horario": "19:00",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 104,
+      "Salida": "Terminal de Paraná",
+      "Horario": "19:20",
+      "Empresa": "Fluviales",
+      "Tipo": "FD"
+    },
+    {
+      "id": 105,
+      "Salida": "Terminal de Paraná",
+      "Horario": "19:25",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 106,
+      "Salida": "Terminal de Paraná",
+      "Horario": "19:30",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 107,
+      "Salida": "Terminal de Paraná",
+      "Horario": "19:40",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 108,
+      "Salida": "Terminal de Paraná",
+      "Horario": "20:00",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 109,
+      "Salida": "Terminal de Paraná",
+      "Horario": "20:05",
+      "Empresa": "Fluviales",
+      "Tipo": "P"
+    },
+    {
+      "id": 110,
+      "Salida": "Terminal de Paraná",
+      "Horario": "20:20",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 111,
+      "Salida": "Terminal de Paraná",
+      "Horario": "20:35",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 112,
+      "Salida": "Terminal de Paraná",
+      "Horario": "20:40",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 113,
+      "Salida": "Terminal de Paraná",
+      "Horario": "20:40",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 114,
+      "Salida": "Terminal de Paraná",
+      "Horario": "21:00",
+      "Empresa": "Fluviales",
+      "Tipo": "P"
+    },
+    {
+      "id": 115,
+      "Salida": "Terminal de Paraná",
+      "Horario": "21:15",
+      "Empresa": "Fluviales",
+      "Tipo": "P"
+    },
+    {
+      "id": 116,
+      "Salida": "Terminal de Paraná",
+      "Horario": "21:20",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 117,
+      "Salida": "Terminal de Paraná",
+      "Horario": "21:30",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 118,
+      "Salida": "Terminal de Paraná",
+      "Horario": "21:50",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 119,
+      "Salida": "Terminal de Paraná",
+      "Horario": "22:00",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 120,
+      "Salida": "Terminal de Paraná",
+      "Horario": "22:15",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 121,
+      "Salida": "Terminal de Paraná",
+      "Horario": "22:20",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 122,
+      "Salida": "Terminal de Paraná",
+      "Horario": "22:40",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 123,
+      "Salida": "Terminal de Paraná",
+      "Horario": "22:50",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 124,
+      "Salida": "Terminal de Paraná",
+      "Horario": "23:55",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    }
+  ],
+  "SantaFe": [
+    {
+      "id": 126,
+      "Salida": "Santa Fe",
+      "Horario": "00:45",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 127,
+      "Salida": "Santa Fe",
+      "Horario": "01:05",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 128,
+      "Salida": "Santa Fe",
+      "Horario": "02:40",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 129,
+      "Salida": "Santa Fe",
+      "Horario": "04:50",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 130,
+      "Salida": "Santa Fe",
+      "Horario": "05:35",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 131,
+      "Salida": "Santa Fe",
+      "Horario": "06:05",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 132,
+      "Salida": "Santa Fe",
+      "Horario": "06:20",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 133,
+      "Salida": "Santa Fe",
+      "Horario": "06:30",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 134,
+      "Salida": "Santa Fe",
+      "Horario": "06:45",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 135,
+      "Salida": "Santa Fe",
+      "Horario": "06:45",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 136,
+      "Salida": "Santa Fe",
+      "Horario": "07:05",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 137,
+      "Salida": "Santa Fe",
+      "Horario": "07:20",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 138,
+      "Salida": "Santa Fe",
+      "Horario": "07:20",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 139,
+      "Salida": "Santa Fe",
+      "Horario": "07:40",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 140,
+      "Salida": "Santa Fe",
+      "Horario": "07:45",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 141,
+      "Salida": "Santa Fe",
+      "Horario": "07:50",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 142,
+      "Salida": "Santa Fe",
+      "Horario": "07:50",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 143,
+      "Salida": "Santa Fe",
+      "Horario": "08:00",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 144,
+      "Salida": "Santa Fe",
+      "Horario": "08:10",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 145,
+      "Salida": "Santa Fe",
+      "Horario": "08:10",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 146,
+      "Salida": "Santa Fe",
+      "Horario": "08:20",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 147,
+      "Salida": "Santa Fe",
+      "Horario": "08:40",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 148,
+      "Salida": "Santa Fe",
+      "Horario": "08:45",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 149,
+      "Salida": "Santa Fe",
+      "Horario": "08:50",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 150,
+      "Salida": "Santa Fe",
+      "Horario": "08:55",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 151,
+      "Salida": "Santa Fe",
+      "Horario": "09:05",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 152,
+      "Salida": "Santa Fe",
+      "Horario": "09:15",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 153,
+      "Salida": "Santa Fe",
+      "Horario": "09:20",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 154,
+      "Salida": "Santa Fe",
+      "Horario": "09:30",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 155,
+      "Salida": "Santa Fe",
+      "Horario": "09:35",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 156,
+      "Salida": "Santa Fe",
+      "Horario": "09:50",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 157,
+      "Salida": "Santa Fe",
+      "Horario": "09:55",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 158,
+      "Salida": "Santa Fe",
+      "Horario": "09:55",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 159,
+      "Salida": "Santa Fe",
+      "Horario": "10:00",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 160,
+      "Salida": "Santa Fe",
+      "Horario": "10:05",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 161,
+      "Salida": "Santa Fe",
+      "Horario": "10:10",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 162,
+      "Salida": "Santa Fe",
+      "Horario": "10:15",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 163,
+      "Salida": "Santa Fe",
+      "Horario": "10:40",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 164,
+      "Salida": "Santa Fe",
+      "Horario": "10:45",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 165,
+      "Salida": "Santa Fe",
+      "Horario": "10:50",
+      "Empresa": "Etacer",
+      "Tipo": "D/R"
+    },
+    {
+      "id": 166,
+      "Salida": "Santa Fe",
+      "Horario": "11:05",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 167,
+      "Salida": "Santa Fe",
+      "Horario": "11:15",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 168,
+      "Salida": "Santa Fe",
+      "Horario": "11:20",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 169,
+      "Salida": "Santa Fe",
+      "Horario": "11:25",
+      "Empresa": "Fluviales",
+      "Tipo": "RP"
+    },
+    {
+      "id": 170,
+      "Salida": "Santa Fe",
+      "Horario": "11:25",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 171,
+      "Salida": "Santa Fe",
+      "Horario": "11:50",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 172,
+      "Salida": "Santa Fe",
+      "Horario": "11:55",
+      "Empresa": "Fluviales",
+      "Tipo": "RP"
+    },
+    {
+      "id": 173,
+      "Salida": "Santa Fe",
+      "Horario": "12:00",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 174,
+      "Salida": "Santa Fe",
+      "Horario": "12:05",
+      "Empresa": "Fluviales",
+      "Tipo": "RP"
+    },
+    {
+      "id": 175,
+      "Salida": "Santa Fe",
+      "Horario": "12:15",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 176,
+      "Salida": "Santa Fe",
+      "Horario": "12:15",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 177,
+      "Salida": "Santa Fe",
+      "Horario": "12:35",
+      "Empresa": "Etacer",
+      "Tipo": "D/R"
+    },
+    {
+      "id": 178,
+      "Salida": "Santa Fe",
+      "Horario": "12:50",
+      "Empresa": "Fluviales",
+      "Tipo": "RP"
+    },
+    {
+      "id": 179,
+      "Salida": "Santa Fe",
+      "Horario": "12:50",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 180,
+      "Salida": "Santa Fe",
+      "Horario": "13:05",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 181,
+      "Salida": "Santa Fe",
+      "Horario": "13:10",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 182,
+      "Salida": "Santa Fe",
+      "Horario": "13:15",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 183,
+      "Salida": "Santa Fe",
+      "Horario": "13:35",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 184,
+      "Salida": "Santa Fe",
+      "Horario": "13:45",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 185,
+      "Salida": "Santa Fe",
+      "Horario": "13:50",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 186,
+      "Salida": "Santa Fe",
+      "Horario": "13:55",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 187,
+      "Salida": "Santa Fe",
+      "Horario": "14:05",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 188,
+      "Salida": "Santa Fe",
+      "Horario": "14:05",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 189,
+      "Salida": "Santa Fe",
+      "Horario": "14:10",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 190,
+      "Salida": "Santa Fe",
+      "Horario": "14:25",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 191,
+      "Salida": "Santa Fe",
+      "Horario": "14:40",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 192,
+      "Salida": "Santa Fe",
+      "Horario": "14:45",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 193,
+      "Salida": "Santa Fe",
+      "Horario": "14:50",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 194,
+      "Salida": "Santa Fe",
+      "Horario": "14:55",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 195,
+      "Salida": "Santa Fe",
+      "Horario": "15:30",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 196,
+      "Salida": "Santa Fe",
+      "Horario": "15:35",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 197,
+      "Salida": "Santa Fe",
+      "Horario": "15:45",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 198,
+      "Salida": "Santa Fe",
+      "Horario": "15:55",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 199,
+      "Salida": "Santa Fe",
+      "Horario": "15:55",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 200,
+      "Salida": "Santa Fe",
+      "Horario": "16:05",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 201,
+      "Salida": "Santa Fe",
+      "Horario": "16:05",
+      "Empresa": "Fluviales",
+      "Tipo": "FD"
+    },
+    {
+      "id": 202,
+      "Salida": "Santa Fe",
+      "Horario": "16:10",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 203,
+      "Salida": "Santa Fe",
+      "Horario": "16:20",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 204,
+      "Salida": "Santa Fe",
+      "Horario": "16:25",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 205,
+      "Salida": "Santa Fe",
+      "Horario": "16:50",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 206,
+      "Salida": "Santa Fe",
+      "Horario": "16:55",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 207,
+      "Salida": "Santa Fe",
+      "Horario": "17:00",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 208,
+      "Salida": "Santa Fe",
+      "Horario": "17:15",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 209,
+      "Salida": "Santa Fe",
+      "Horario": "17:20",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 210,
+      "Salida": "Santa Fe",
+      "Horario": "17:25",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 211,
+      "Salida": "Santa Fe",
+      "Horario": "17:35",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 212,
+      "Salida": "Santa Fe",
+      "Horario": "17:55",
+      "Empresa": "Etacer",
+      "Tipo": "D/R"
+    },
+    {
+      "id": 213,
+      "Salida": "Santa Fe",
+      "Horario": "18:00",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 214,
+      "Salida": "Santa Fe",
+      "Horario": "18:05",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 215,
+      "Salida": "Santa Fe",
+      "Horario": "18:05",
+      "Empresa": "Fluviales",
+      "Tipo": "FD"
+    },
+    {
+      "id": 216,
+      "Salida": "Santa Fe",
+      "Horario": "18:05",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 217,
+      "Salida": "Santa Fe",
+      "Horario": "18:15",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 218,
+      "Salida": "Santa Fe",
+      "Horario": "18:25",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 219,
+      "Salida": "Santa Fe",
+      "Horario": "18:55",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 220,
+      "Salida": "Santa Fe",
+      "Horario": "19:00",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 221,
+      "Salida": "Santa Fe",
+      "Horario": "19:05",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 222,
+      "Salida": "Santa Fe",
+      "Horario": "19:10",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 223,
+      "Salida": "Santa Fe",
+      "Horario": "19:30",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 224,
+      "Salida": "Santa Fe",
+      "Horario": "19:30",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 225,
+      "Salida": "Santa Fe",
+      "Horario": "19:35",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 226,
+      "Salida": "Santa Fe",
+      "Horario": "19:35",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 227,
+      "Salida": "Santa Fe",
+      "Horario": "19:40",
+      "Empresa": "Etacer",
+      "Tipo": "D"
+    },
+    {
+      "id": 228,
+      "Salida": "Santa Fe",
+      "Horario": "19:45",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 229,
+      "Salida": "Santa Fe",
+      "Horario": "19:50",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 230,
+      "Salida": "Santa Fe",
+      "Horario": "20:10",
+      "Empresa": "Fluviales",
+      "Tipo": "FD"
+    },
+    {
+      "id": 231,
+      "Salida": "Santa Fe",
+      "Horario": "20:15",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 232,
+      "Salida": "Santa Fe",
+      "Horario": "20:30",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 233,
+      "Salida": "Santa Fe",
+      "Horario": "20:45",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 234,
+      "Salida": "Santa Fe",
+      "Horario": "20:50",
+      "Empresa": "Fluviales",
+      "Tipo": "R"
+    },
+    {
+      "id": 235,
+      "Salida": "Santa Fe",
+      "Horario": "20:50",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 236,
+      "Salida": "Santa Fe",
+      "Horario": "21:15",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 237,
+      "Salida": "Santa Fe",
+      "Horario": "21:20",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 238,
+      "Salida": "Santa Fe",
+      "Horario": "21:30",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 239,
+      "Salida": "Santa Fe",
+      "Horario": "21:45",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 240,
+      "Salida": "Santa Fe",
+      "Horario": "21:55",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 241,
+      "Salida": "Santa Fe",
+      "Horario": "22:00",
+      "Empresa": "Fluviales",
+      "Tipo": "R"
+    },
+    {
+      "id": 242,
+      "Salida": "Santa Fe",
+      "Horario": "22:05",
+      "Empresa": "Fluviales",
+      "Tipo": "FP"
+    },
+    {
+      "id": 243,
+      "Salida": "Santa Fe",
+      "Horario": "22:20",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 244,
+      "Salida": "Santa Fe",
+      "Horario": "22:50",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 245,
+      "Salida": "Santa Fe",
+      "Horario": "22:55",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    },
+    {
+      "id": 246,
+      "Salida": "Santa Fe",
+      "Horario": "23:05",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 247,
+      "Salida": "Santa Fe",
+      "Horario": "23:10",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 248,
+      "Salida": "Santa Fe",
+      "Horario": "23:30",
+      "Empresa": "Fluviales",
+      "Tipo": "D"
+    },
+    {
+      "id": 249,
+      "Salida": "Santa Fe",
+      "Horario": "23:55",
+      "Empresa": "Etacer",
+      "Tipo": "R"
+    }
+  ]
+}
