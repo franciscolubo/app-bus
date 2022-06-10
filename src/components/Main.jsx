@@ -10,7 +10,6 @@ export default function Main(props) {
 
   const deployedButton = () => {
     setHidden(!hidden);
-    console.log(hidden);
     if (!hidden) {
       Animated.timing(fadeAnim, {
         toValue: 1,
@@ -27,7 +26,13 @@ export default function Main(props) {
   };
 
   return (
-    <View style={[styles.list]}>
+    <View
+      style={
+        props.Salida.includes("Terminal")
+          ? styles.listParana
+          : styles.listSantafe
+      }
+    >
       <StyledText
         style={styles.titleText}
         onPress={deployedButton}

@@ -44,6 +44,7 @@ export default function StyledText({
 }) {
   const textStyles = [
     styles.text,
+    style,
     type === "title" && styles.title,
     fontSize === "heading" && styles.heading,
     fontSize === "subheading" && styles.subheading,

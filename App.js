@@ -4,18 +4,20 @@ import Main from "./src/components/Main.jsx";
 import horarios from "./horarios.json";
 import styles from "./src/styles";
 import StyledText from "./src/components/StyledText.jsx";
+import setNewStops from "./helpers/setNewStops.js";
+import setHour from "./helpers/setHour.js";
 
 export default function App() {
   const [isAnimated, setIsAnimated] = useState(false);
   const [forceUpdate, setForceUpdate] = useState(false);
   const fadeAnim = useRef(new Animated.Value(0)).current;
 
-  let d = new Date().toLocaleTimeString().slice(0, 5);
-  let parana = horarios.Parana.filter((item) => item.Horario >= d);
-  let santaFe = horarios.SantaFe.filter((item) => item.Horario >= d);
-  parana = parana.slice(0, 3);
-  santaFe = santaFe.slice(0, 3);
-  let newHorarios = parana.concat(santaFe);
+  const reset = () => {
+    setForceUpdate(!forceUpdate);
+  };
+
+  let newHorarios = setNewStops();
+  setHour(reset, newHorarios);
 
   useEffect(() => {
     if (!isAnimated) {
@@ -28,38 +30,7 @@ export default function App() {
       setIsAnimated(true);
     }
   });
-  let j = 3;
-  if (newHorarios.length === 2) j = 1;
-  else if (newHorarios.length === 4) j = 2;
-  if (
-    newHorarios[0].Horario.slice(0, 2) > d.slice(0, 2) ||
-    newHorarios[j].Horario.slice(0, 2) > d.slice(0, 2)
-  ) {
-    let tiempo = (60 - d.slice(3)) * 60000;
-    let tiempo2 = (60 - d.slice(3)) * 60000;
-    if (tiempo2 < tiempo) tiempo = tiempo2;
-    if (tiempo === 0) {
-      tiempo = 20000;
-    }
-    console.log(tiempo, d.slice(3));
-    setTimeout(() => {
-      reset();
-    }, tiempo);
-  } else {
-    let tiempo = (newHorarios[0].Horario.slice(3) - d.slice(3)) * 60000;
-    let tiempo2 = (newHorarios[j].Horario.slice(3) - d.slice(3)) * 60000;
-    if (tiempo2 < tiempo) tiempo = tiempo2;
-    if (tiempo === 0) {
-      tiempo = 20000;
-    }
-    console.log(tiempo);
-    setTimeout(() => {
-      reset();
-    }, tiempo);
-  }
-  const reset = () => {
-    setForceUpdate(!forceUpdate);
-  };
+
   return (
     <View style={styles.container}>
       {newHorarios.length > 0 ? (

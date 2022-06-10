@@ -1,8 +1,8 @@
 const theme = {
   colors: {
     textPrimary: "#000",
-    textSecondary: "#ff5b38",
-    textTitle: "#c70039",
+    textSecondary: "#4e5346",
+    textTitle: "#ba0c04",
   },
   fontSize: {
     body: 14,
