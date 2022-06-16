@@ -1,7 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Text, View, FlatList, Animated } from "react-native";
 import Main from "./src/components/Main.jsx";
-import horarios from "./horarios.json";
 import styles from "./src/styles";
 import StyledText from "./src/components/StyledText.jsx";
 import setNewStops from "./helpers/setNewStops.js";
