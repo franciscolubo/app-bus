@@ -1,49 +1,69 @@
-import { StyleSheet } from "react-native";
+import { Dimensions, StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
-  container: {
-    padding: 70,
+  background: {
+    backgroundColor: "#2836FF",
     flex: 1,
-    backgroundColor: "#30353D",
   },
-  viewOn: {
+  containerGeneral: {
+    backgroundColor: "#FDF8F6",
+    margin: 20,
+    marginVertical: 57,
+    borderRadius: 10,
+    padding: 15,
+    flex: 1
+  },
+
+  //! Styles for temp. day
+  containerTemp: {
+    alignContent: "center"
+  },
+  title: {
+    textAlign: "center"
+  },
+  allTemp: {
     display: "flex",
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "space-between"
   },
-  viewOff: {
-    display: "none",
+  tempImage: {
+    display: "flex",
+    flexDirection: "row",
+    alignItems: "center"
   },
-  containerData: {
-    marginVertical: 5,
-    flexDirection: "column",
+
+  //! Styles bus
+  containerOneBus: {
+    display: "flex",
+    flexDirection: "row",
+    justifyContent: "space-between",
+    marginVertical: 20,
+    alignItems: "center"
   },
-  titleText: {
-    paddingLeft: 15,
-    marginVertical: 5,
+  dataOneBus: {
+    display: "flex",
+    flexDirection: "row",
+    marginTop: 10
+  },
+  titleBus: {
+    marginTop: 20
+  },
+  counter: {
+    flex: 0.3
   },
   data: {
-    flexDirection: "row",
-    flex: 1,
-    flexWrap: "wrap",
+    flex: 0.5
   },
-  listParana: {
-    backgroundColor: "#f5b36f",
-    borderRadius: 5,
-    padding: 5,
-  },
-  listSantafe: {
-    backgroundColor: "#F5E67A",
-    borderRadius: 5,
-    padding: 5,
-  },
-  dataText: {
-    paddingLeft: 5,
-  },
-  parana: {
-    backgroundColor: "#f5b36f",
-  },
-  santafe: {
-    backgroundColor: "#F5E67A",
-  },
+
+
+  //! Loading
+  loadBus: {
+    backgroundColor: '#2836FF',
+    height: Dimensions.get('window').height,
+    alignItems: "center",
+    justifyContent: "center"
+  }
 });
 
 export default styles;

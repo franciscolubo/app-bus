@@ -5,11 +5,12 @@ import theme from "../theme";
 const styles = StyleSheet.create({
   text: {
     color: theme.colors.textPrimary,
-    fontSize: theme.fontSize.body,
+    fontSize: 15,
     fontFamily: theme.fonts.main,
+    fontWeight: 600
   },
-  title: {
-    color: theme.colors.textTitle,
+  subtitle: {
+    color: '#7C7FFF',
     fontSize: theme.fontSize.heading,
     fontWeight: theme.fontWeights.bold,
   },
@@ -30,7 +31,14 @@ const styles = StyleSheet.create({
   },
   bold: {
     fontWeight: theme.fontWeights.bold,
+    textDecorationLine: "underline"
   },
+  bigTitle: {
+    fontSize: 25,
+    fontWeight: theme.fontWeights.bold,
+    textDecorationLine: "underline",
+    color: '#354AFF'
+  }
 });
 
 export default function StyledText({
@@ -45,7 +53,8 @@ export default function StyledText({
   const textStyles = [
     styles.text,
     style,
-    type === "title" && styles.title,
+    type === 'bigTitle' && styles.bigTitle,
+    type === "subtitle" && styles.subtitle,
     fontSize === "heading" && styles.heading,
     fontSize === "subheading" && styles.subheading,
     color === "textSecondary" && styles.textSecondary,
