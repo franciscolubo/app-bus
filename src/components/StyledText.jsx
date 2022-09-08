@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
     fontWeight: 600
   },
   subtitle: {
-    color: '#7C7FFF',
+    color: '#242324',
     fontSize: theme.fontSize.heading,
     fontWeight: theme.fontWeights.bold,
   },
@@ -31,13 +31,12 @@ const styles = StyleSheet.create({
   },
   bold: {
     fontWeight: theme.fontWeights.bold,
-    textDecorationLine: "underline"
   },
   bigTitle: {
     fontSize: 25,
     fontWeight: theme.fontWeights.bold,
     textDecorationLine: "underline",
-    color: '#354AFF'
+    color: '#494525'
   }
 });
 

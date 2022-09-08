@@ -15,7 +15,7 @@ export default function Main(props) {
             {props.Salida.includes("Terminal")
               ? "Paraná - Santa Fe"
               : "Santa Fe - Paraná"}{" "}
-            - {props.type === 1 ? props.Tipo : props.Horario}
+            {props.type === 1 ? '' : "- " + props.Horario}
           </StyledText>
           {
             props.type === 1 ?

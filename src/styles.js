@@ -2,14 +2,14 @@ import { Dimensions, StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
   background: {
-    backgroundColor: "#2836FF",
+    backgroundColor: "#ec9f1f",
     flex: 1,
   },
   containerGeneral: {
-    backgroundColor: "#FDF8F6",
+    backgroundColor: "#CCC",
     margin: 20,
     marginVertical: 57,
-    borderRadius: 10,
+    borderRadius: 15,
     padding: 15,
     flex: 1
   },
@@ -39,7 +39,10 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "space-between",
     marginVertical: 20,
-    alignItems: "center"
+    alignItems: "center",
+    backgroundColor: "#fae76d",
+    borderRadius: 10,
+    padding: 5
   },
   dataOneBus: {
     display: "flex",
@@ -47,19 +50,22 @@ const styles = StyleSheet.create({
     marginTop: 10
   },
   titleBus: {
-    marginTop: 20
+    marginTop: 20,
+    backgroundColor: "#fae76d",
+    borderRadius: 10,
+    padding: 5
   },
   counter: {
     flex: 0.3
   },
   data: {
-    flex: 0.5
+    flex: 0.6
   },
 
 
   //! Loading
   loadBus: {
-    backgroundColor: '#2836FF',
+    backgroundColor: '#ec9f1f',
     height: Dimensions.get('window').height,
     alignItems: "center",
     justifyContent: "center"

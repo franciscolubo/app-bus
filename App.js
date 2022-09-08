@@ -60,8 +60,8 @@ export default function App() {
                     <StyledText fontWeight="semibold" fontSize="subheading">Temp {Math.ceil(data.main.temp - 273.15)}°C</StyledText>
                   </View>
                   <View>
-                    <StyledText fontWeight="normal" fontSize="subheading">Max. {Math.ceil(data.main.temp_max - 273.15)}°C</StyledText>
-                    <StyledText fontWeight="normal" fontSize="subheading">Min. {Math.floor(data.main.temp_min - 273.15)}°C</StyledText>
+                    <StyledText fontWeight="semibold" fontSize="subheading">Max. {Math.ceil(data.main.temp_max - 273.15)}°C</StyledText>
+                    <StyledText fontWeight="semibold" fontSize="subheading">Min. {Math.floor(data.main.temp_min - 273.15)}°C</StyledText>
                   </View>
                 </View>
               </View>
@@ -76,10 +76,10 @@ export default function App() {
                       styles={styles.circleTimer}
                       isPlaying
                       duration={(tiempo / 1000)}
-                      colors={['#2836FF', '#F7B801', '#A30000', '#500000']}
-                      // colorsTime={[7, 5, 2, 0]}
+                      colors={['#5e0000']}
                       size={100}
-                      colorsTime={[(tiempo / 1000), (tiempo / 1000) - ((tiempo / 1000) / 4), (tiempo / 1000) - ((tiempo / 1000) / 2), (tiempo / 1000) - (((tiempo / 1000) / 4) * 3), (tiempo / 1000) / 4]}
+                    // colorsTime={[7, 5, 2, 0]}
+                    // colorsTime={[(tiempo / 1000), (tiempo / 1000) - ((tiempo / 1000) / 4), (tiempo / 1000) - ((tiempo / 1000) / 2), (tiempo / 1000) - (((tiempo / 1000) / 4) * 3), (tiempo / 1000) / 4]}
                     >
                       {({ remainingTime }) => <Text>{Math.ceil(remainingTime / 60)}"</Text>}
                     </CountdownCircleTimer>

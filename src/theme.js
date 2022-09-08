@@ -1,7 +1,7 @@
 const theme = {
   colors: {
     textPrimary: "#000",
-    textSecondary: "#440900",
+    textSecondary: '#1b141b',
     textTitle: "#2836FF",
   },
   fontSize: {
