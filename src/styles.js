@@ -2,14 +2,14 @@ import { Dimensions, StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
   background: {
-    backgroundColor: "#ec9f1f",
+    backgroundColor: "#8aacc8",
     flex: 1,
   },
   containerGeneral: {
-    backgroundColor: "#CCC",
+    backgroundColor: "#e6ffff",
     margin: 20,
     marginVertical: 57,
-    borderRadius: 15,
+    borderRadius: 20,
     padding: 15,
     flex: 1
   },
@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     marginVertical: 20,
     alignItems: "center",
-    backgroundColor: "#fae76d",
+    backgroundColor: "#82b3c9",
     borderRadius: 10,
     padding: 5
   },
@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
   },
   titleBus: {
     marginTop: 20,
-    backgroundColor: "#fae76d",
+    backgroundColor: "#82b3c9",
     borderRadius: 10,
     padding: 5
   },

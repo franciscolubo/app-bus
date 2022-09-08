@@ -10,10 +10,11 @@ export default function Data({ Salida, Horario, Tipo, Empresa }) {
         <StyledText
           color="textSecondary"
           fontWeight="semibold"
+          type="infoTitle"
         >
           Parada:{" "}
         </StyledText>
-        <StyledText fontWeight="semibold" color="textPrimary">
+        <StyledText color="textPrimary">
           {Tipo === "P"
             ? "Plaza Alberdi (Paraná)"
             : Tipo === "FP"
@@ -27,10 +28,11 @@ export default function Data({ Salida, Horario, Tipo, Empresa }) {
         <StyledText
           color="textSecondary"
           fontWeight="semibold"
+          type="infoTitle"
         >
           Empresa:{" "}
         </StyledText>
-        <StyledText fontWeight="semibold" color="textPrimary">
+        <StyledText color="textPrimary">
           {Empresa}
         </StyledText>
       </View>
@@ -38,10 +40,11 @@ export default function Data({ Salida, Horario, Tipo, Empresa }) {
         <StyledText
           color="textSecondary"
           fontWeight="semibold"
+          type="infoTitle"
         >
           Proxima llegada:{" "}
         </StyledText>
-        <StyledText fontWeight="semibold" color="textPrimary">
+        <StyledText color="textPrimary">
           {Horario}
         </StyledText>
       </View>
@@ -49,10 +52,11 @@ export default function Data({ Salida, Horario, Tipo, Empresa }) {
         <StyledText
           color="textSecondary"
           fontWeight="semibold"
+          type="infoTitle"
         >
           Tipo:{" "}
         </StyledText>
-        <StyledText fontWeight="semibold" color="textPrimary">
+        <StyledText color="textPrimary">
           {Tipo === "D"
             ? "Directo"
             : Tipo === "R"

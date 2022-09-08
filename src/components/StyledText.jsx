@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
     fontWeight: 600
   },
   subtitle: {
-    color: '#242324',
+    color: '#FFF',
     fontSize: theme.fontSize.heading,
     fontWeight: theme.fontWeights.bold,
   },
@@ -35,8 +35,10 @@ const styles = StyleSheet.create({
   bigTitle: {
     fontSize: 25,
     fontWeight: theme.fontWeights.bold,
-    textDecorationLine: "underline",
     color: '#494525'
+  },
+  infoTitle: {
+    textTransform: "uppercase"
   }
 });
 
@@ -54,6 +56,7 @@ export default function StyledText({
     style,
     type === 'bigTitle' && styles.bigTitle,
     type === "subtitle" && styles.subtitle,
+    type === 'infoTitle' && styles.infoTitle,
     fontSize === "heading" && styles.heading,
     fontSize === "subheading" && styles.subheading,
     color === "textSecondary" && styles.textSecondary,

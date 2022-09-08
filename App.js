@@ -57,7 +57,7 @@ export default function App() {
                       source={{ uri: `http://openweathermap.org/img/wn/${data.weather[0].icon}@2x.png` }}
                       style={{ width: 100, height: 100 }}
                     />
-                    <StyledText fontWeight="semibold" fontSize="subheading">Temp {Math.ceil(data.main.temp - 273.15)}°C</StyledText>
+                    <StyledText fontWeight="semibold" fontSize="subheading">{Math.ceil(data.main.temp - 273.15)}°C</StyledText>
                   </View>
                   <View>
                     <StyledText fontWeight="semibold" fontSize="subheading">Max. {Math.ceil(data.main.temp_max - 273.15)}°C</StyledText>
@@ -76,7 +76,7 @@ export default function App() {
                       styles={styles.circleTimer}
                       isPlaying
                       duration={(tiempo / 1000)}
-                      colors={['#5e0000']}
+                      colors={['#34515e']}
                       size={100}
                     // colorsTime={[7, 5, 2, 0]}
                     // colorsTime={[(tiempo / 1000), (tiempo / 1000) - ((tiempo / 1000) / 4), (tiempo / 1000) - ((tiempo / 1000) / 2), (tiempo / 1000) - (((tiempo / 1000) / 4) * 3), (tiempo / 1000) / 4]}
