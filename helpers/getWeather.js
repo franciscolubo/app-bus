@@ -1,7 +1,7 @@
 import { Platform } from "react-native";
+import { KEY_API } from "@env"
 
 export default async function getWeather(location) {
-
     let lat, lon;
     if (Platform.OS === 'web') {
         lat = location[0]
@@ -11,6 +11,6 @@ export default async function getWeather(location) {
         lon = location.coords.longitude
     }
 
-    return await fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=c2fce6d79338105db1081d2f033550d1`)
+    return await fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${KEY_API}`)
         .then(response => response.json())
 }
