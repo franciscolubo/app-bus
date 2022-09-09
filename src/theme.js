@@ -1,7 +1,7 @@
 const theme = {
   colors: {
     textPrimary: "#000",
-    textSecondary: '#1b141b',
+    textSecondary: '#000',
     textTitle: "#2836FF",
   },
   fontSize: {
@@ -11,6 +11,7 @@ const theme = {
   },
   fonts: {
     main: "System",
+    poppins: "Poppins"
   },
   fontWeights: {
     normal: "300",

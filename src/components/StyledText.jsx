@@ -6,11 +6,9 @@ const styles = StyleSheet.create({
   text: {
     color: theme.colors.textPrimary,
     fontSize: 15,
-    fontFamily: theme.fonts.main,
-    fontWeight: 600
   },
   subtitle: {
-    color: '#FFF',
+    color: '#000',
     fontSize: theme.fontSize.heading,
     fontWeight: theme.fontWeights.bold,
   },
@@ -33,9 +31,10 @@ const styles = StyleSheet.create({
     fontWeight: theme.fontWeights.bold,
   },
   bigTitle: {
-    fontSize: 25,
-    fontWeight: theme.fontWeights.bold,
-    color: '#494525'
+    fontSize: 30,
+    fontWeight: 700,
+    color: '#000',
+    letterSpacing: 2
   },
   infoTitle: {
     textTransform: "uppercase"
