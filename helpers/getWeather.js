@@ -10,6 +10,7 @@ export default async function getWeather(location) {
         lat = location.coords.latitude
         lon = location.coords.longitude
     }
+    console.log(KEY_API)
 
     return await fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${KEY_API}`)
         .then(response => response.json())
