@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
     color: theme.colors.textPrimary,
     fontSize: 15,
     fontFamily: theme.fonts.main,
-    fontWeight: 600
+    fontWeight: '600'
   },
   subtitle: {
     color: '#FFF',
